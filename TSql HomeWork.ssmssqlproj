@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TSql HomeWork">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-GBOKDIS\MSSQLSERVER1:DESKTOP-GBOKDIS\New Laptop">
+          <Created>2018-03-11T13:07:58.8205429-04:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-GBOKDIS\MSSQLSERVER1</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Northwind</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CH4 SUBQUERIES.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CH4 SUBQUERIES.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CH5 Table Expression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CH5 Table Expression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ch6-SetOperator.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Ch6-SetOperator.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Chap 10 Trans and Conc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Chap 10 Trans and Conc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Chap 9 TemporalTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Chap 9 TemporalTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Chap7AdvanceSql.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Chap7AdvanceSql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Chap8DataModification.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Chap8DataModification.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CTEPractice.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CTEPractice.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exam 70-461.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Exam 70-461.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JOINS CH2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>JOINS CH2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Module 2 Lab.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Module 2 Lab.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Module 3 Lab.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Module 3 Lab.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Module 4 Lab.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Module 4 Lab.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PracticeSQLQuery.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>PracticeSQLQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SingleTableQueriesChap2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SingleTableQueriesChap2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StudentCourse.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StudentCourse.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TSQL Practice and Homework.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TSQL Practice and Homework.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TVFandVIEWSpractice.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GBOKDIS\MSSQLSERVER1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GBOKDIS\MSSQLSERVER1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TVFandVIEWSpractice.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
